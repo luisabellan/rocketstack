@@ -156,7 +156,7 @@
     "vitest": "^1.5.3"
   },
   "engines": {
-    "node": "20"
+    "node": "20.11.1"
   },
   "rocket-stack": true,
   "//prisma": {
