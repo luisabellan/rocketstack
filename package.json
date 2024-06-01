@@ -1,6 +1,6 @@
 {
   "name": "rocketstack",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "type": "module",
   "imports": {
